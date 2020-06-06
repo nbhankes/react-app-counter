@@ -1,4 +1,4 @@
-[!](https://www.youtube.com/da6f792f-d129-4501-b95d-742fc4769056)
+[Counter Design and Function](https://www.youtube.com/watch?v=WdEVE6qJamk&feature=youtu.be)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
