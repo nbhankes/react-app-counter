@@ -1,4 +1,4 @@
-[![React Counter App](http://img.youtube.com/vi/WdEVE6qJamk/0.jpg)](http://www.youtube.com/watch?v=WdEVE6qJamk "React Counter App")
+[![React Counter App](https://dev-to-uploads.s3.amazonaws.com/i/6e9jv8ym98uuz0z8aq14.png))](http://www.youtube.com/watch?v=WdEVE6qJamk "React Counter App")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
