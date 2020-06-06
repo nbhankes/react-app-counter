@@ -1,0 +1,89 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background-color: #ecf0f3;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+li {
+  margin: 10px 30px;
+}
+
+.counterContainer {
+  display: flex;
+  width: 15rem;
+  height: 20rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  flex-direction: column;
+  justify-content: center;
+  border-radius: 50px 15px 5px 5px;
+  box-shadow: 4px 4px 4px 0px #d1d9e6, -4px -4px 4px 0px #ffffff;
+}
+
+.count {
+  color: #38413f;
+  font-size: 8rem;
+}
+
+.numScreen {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-radius: 50px 15px 5px 5px;
+  margin-top: 1.2rem;
+  margin-left: 1.2rem;
+  margin-right: 1.2rem;
+  height: 10rem;
+  background-color: #e0e1e0;
+  box-shadow: 1px 1px 4px 0px #c1c3c1 inset;
+}
+
+.headerBanner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  vertical-align: middle;
+  width: 100%;
+  height: 6rem;
+  background-color: black;
+}
+
+.btn {
+  color: #38413f;
+  background-color: #ecf0f3;
+  border-radius: 100px;
+  height: 3rem;
+  width: 3rem;
+  margin: 1rem 1rem;
+  font-size: 2rem;
+  border: none;
+  text-align: center;
+  box-shadow: 0px 0px 0px 0px #ffffff, 2px 2px 3px 0px #d1d9e6;
+  cursor: pointer;
+  outline: none;
+}
+
+.btn:active {
+  color: red;
+  background-color: #ecf0f3;
+  border-radius: 100px;
+  height: 3rem;
+  width: 3rem;
+  margin: 1rem 1rem;
+  font-size: 2rem;
+  border: none;
+  text-align: center;
+  box-shadow: -2px -2px 2px 0px #ffffff inset, 2px 2px 2px 0px #d1d9e6 inset;
+  cursor: pointer;
+  outline: none;
+}
