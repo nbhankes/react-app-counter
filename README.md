@@ -1,4 +1,4 @@
-<iframe width="981" height="480" src="https://www.youtube.com/embed/WdEVE6qJamk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![React Counter App](http://img.youtube.com/vi/WdEVE6qJamk/0.jpg)](http://www.youtube.com/watch?v=WdEVE6qJamk "React Counter App")
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
